@@ -9,9 +9,9 @@ Clean a raw dataset by handling missing values, duplicates, and incorrect data.
 
 
 ## Key Requirements:
-• Identify missing or null values
-• Remove duplicates
-• Correct data formats (dates, numbers, text) using Excel.
+1. Identify missing or null values
+2. Remove duplicates
+3. Correct data formats (dates, numbers, text) using Excel.
 
 ## Summary and Insights from Cleaned Data
 1. Rows processed: 1,200
