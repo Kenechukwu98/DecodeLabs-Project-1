@@ -41,6 +41,9 @@ Analyze a dataset to understand patterns, trends, and distributions.
 Data analysis, descriptive statistics, analytical thinking.
 
 ## Exploratory Data Analysis on Excel
+- <a href="https://github.com/Kenechukwu98/DecodeLabs-Project-1/blob/main/Dataset%20for%20Data%20Analytics%20(1).xlsx">Full Breakdown of EDA</a>
+
+## Key Observations On Insights On The Exploratory Data Analysis
 
 
 
