@@ -27,7 +27,7 @@ Clean a raw dataset by handling missing values, duplicates, and incorrect data.
 Exploratory Data Analysis (EDA)
 
 ## Dataset Given
-
+- <a href="https://github.com/Kenechukwu98/DecodeLabs-Project-1/blob/main/Dataset%20for%20Data%20Analytics%20(2).xlsx">Raw Dataset</a>
 
 ## Project Goal 
 Analyze a dataset to understand patterns, trends, and distributions.
@@ -39,6 +39,9 @@ Analyze a dataset to understand patterns, trends, and distributions.
 
 ## Key Skills Applied
 Data analysis, descriptive statistics, analytical thinking.
+
+## Exploratory Data Analysis on Excel
+
 
 
 
