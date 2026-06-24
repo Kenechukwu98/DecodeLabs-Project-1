@@ -13,7 +13,7 @@ Clean a raw dataset by handling missing values, duplicates, and incorrect data.
 • Remove duplicates
 • Correct data formats (dates, numbers, text) using Excel.
 
-## Summary and Insightsfrom Cleaned Data
+## Summary and Insights from Cleaned Data
 1. Rows processed: 1,200
 2. Missing values found: 309 (CouponCode only) → imputed as "No Coupon"
 3. Duplicates found: 0 (verified two ways)
