@@ -4,7 +4,8 @@ Data Cleaning And Preparation Project 1
 ## Project Goal
 Clean a raw dataset by handling missing values, duplicates, and incorrect data.
 
-## Data Given 
+## Raw Dataset Given 
+- <a href="https://github.com/Kenechukwu98/DecodeLabs-Project-1/blob/main/Dataset%20for%20Data%20Analytics%20(2).xlsx">Raw Uncleaned Dataset</a>
 
 
 ## Key Requirements:
@@ -17,3 +18,5 @@ Clean a raw dataset by handling missing values, duplicates, and incorrect data.
 2. Missing values found: 309 (CouponCode only) → imputed as "No Coupon"
 3. Duplicates found: 0 (verified two ways)
 4. Format issues: 0 (dates/numbers/text already consistent) → standardized formatting applied for presentation
+
+## - <a href="
