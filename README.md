@@ -44,7 +44,7 @@ Data analysis, descriptive statistics, analytical thinking.
 - <a href="https://github.com/Kenechukwu98/DecodeLabs-Project-1/blob/main/Dataset%20for%20Data%20Analytics%20(1).xlsx">Full Breakdown of EDA</a>
 
 ## Key Observations On Insights On The Exploratory Data Analysis
-
+- <a href="https://github.com/Kenechukwu98/DecodeLabs-Project-1/blob/main/KEY%20OBSERVATIONS%20ON%20INSIGHTS%20ON%20THE%20EXPLORATORY%20DATA%20ANALYSIS.docx">Full Summary Of EDA</a>
 
 
 
