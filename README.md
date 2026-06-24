@@ -1,5 +1,5 @@
-# DecodeLabs-Project-1
-Data Cleaning And Preparation Project 1
+# DecodeLabs Project 1
+Data Cleaning And Preparation Project 
 
 ## Project Goal
 Clean a raw dataset by handling missing values, duplicates, and incorrect data.
@@ -21,3 +21,26 @@ Clean a raw dataset by handling missing values, duplicates, and incorrect data.
 
 ## Cleaned Dataset 
 - <a href="https://github.com/Kenechukwu98/DecodeLabs-Project-1/blob/main/Cleaned_Dataset_for_Data_Analytics%20(2).xlsx">Cleaned Dataset</a>
+
+
+# DecodeLabs Project 2
+Exploratory Data Analysis (EDA)
+
+## Dataset Given
+
+
+## Project Goal 
+Analyze a dataset to understand patterns, trends, and distributions.
+
+## Key Requirements
+1. Calculate basic statistics (mean, median, count).
+2. Identify trends and outliers.
+3. Summarize key observations.
+
+## Key Skills Applied
+Data analysis, descriptive statistics, analytical thinking.
+
+
+
+
+
