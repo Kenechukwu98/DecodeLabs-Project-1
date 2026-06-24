@@ -19,4 +19,5 @@ Clean a raw dataset by handling missing values, duplicates, and incorrect data.
 3. Duplicates found: 0 (verified two ways)
 4. Format issues: 0 (dates/numbers/text already consistent) → standardized formatting applied for presentation
 
-## - <a href="https://github.com/Kenechukwu98/DecodeLabs-Project-1/blob/main/Cleaned_Dataset_for_Data_Analytics%20(2).xlsx">Cleaned Dataset</a>
+## Cleaned Dataset 
+- <a href="https://github.com/Kenechukwu98/DecodeLabs-Project-1/blob/main/Cleaned_Dataset_for_Data_Analytics%20(2).xlsx">Cleaned Dataset</a>
